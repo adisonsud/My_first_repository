@@ -1,0 +1,22 @@
+p:first-child{
+    color: red;
+}    
+p:last-child{
+    color: blue;
+}
+p:nth-child(2n){
+    color: blueviolet;
+}
+.caja1{
+    background-color: aqua;
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    border: 2px solid saddlebrown;
+}
+.caja2{
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: salmon;
+}
